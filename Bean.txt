@@ -1,0 +1,14 @@
+{
+   "time": time,
+   "beginTime": beignTime,
+   "endTime": endTime,
+   "day": day,
+   "room": room,
+   "week": week
+   }
+
+
+  {
+  	"code": "0",
+  	"class":"class"
+  }
